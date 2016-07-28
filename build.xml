@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+
+<project name="healthmap-notifications-portlet" basedir="." default="deploy">
+	<import file="../build-common-portlet.xml" />
+	<property name="original.war.file" value="notifications-portlet-6.2.0.8.war" />	
+</project>
